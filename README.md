@@ -56,7 +56,3 @@ A short description of the project.
     │
     └── plots.py                <- Code to create visualizations
 ```
-
---------
-
->>>>>>> c9aa274 (Initial commit)
